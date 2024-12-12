@@ -1,10 +1,16 @@
-# **Customer Sentiment Analysis and Insights**
+# 🛒 **Customer Sentiment Analysis and Insights**
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange) ![Visualization](https://img.shields.io/badge/Data%20Visualization-Seaborn%20%7C%20Matplotlib-green)
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon Logo" width="300"/>
+</p>
 
 This project analyzes customer reviews from Amazon to uncover trends in sentiment, review patterns, and ratings. Using Python and statistical methods, the analysis provides actionable insights into customer behavior, product performance, and potential areas for improvement.
 
 ---
 
-## **Project Overview**
+## 📜 **Project Overview**
 
 ### **Objectives**
 - Perform **sentiment analysis** on customer reviews to classify them as positive, neutral, or negative.
@@ -20,30 +26,33 @@ This project analyzes customer reviews from Amazon to uncover trends in sentimen
 
 ---
 
-## **Highlights of the Analysis**
+## 🌟 **Highlights of the Analysis**
 
 ### **1. Sentiment Distribution**
 - The majority of reviews are **positive**, reflecting high customer satisfaction.
 - Categories with mixed sentiments are flagged for further analysis.
 
-![image](https://github.com/user-attachments/assets/5a26baa6-7dfd-4507-bcb3-6199e43f23b2)
-
+![image](https://github.com/user-attachments/assets/8cba60f8-a611-40ea-ac79-ac2a342c2551)
 
 ---
 
 ### **2. Word Clouds**
-- **Positive Sentiments**: Keywords like "good," "quality," and "value" dominate.
-- **Negative Sentiments**: Complaints focus on issues like "working," "poor," and "bad."
-- **Neutral Sentiments**: Neutral reviews are brief, with terms like "okay" and "size."
+Visual representations of frequent words in each sentiment category:
 
-#### Positive Sentiment Word Cloud:
-![image](https://github.com/user-attachments/assets/5f54cc3b-573d-414a-8518-8248d0be4afe)
+#### 🌞 **Positive Sentiments**:
+Keywords like "good," "quality," and "value" dominate.
 
-#### Neutral Sentiment Word Cloud:
-![image](https://github.com/user-attachments/assets/21f17df5-3907-4027-876d-e287a31bc7c7)
+![image](https://github.com/user-attachments/assets/c6809390-4d3c-43aa-b649-e7169b34fdbd)
 
-#### Negative Sentiment Word Cloud:
-![image](https://github.com/user-attachments/assets/2666eb59-57ff-4404-bc04-88fc209cab1e)
+#### 😐 **Neutral Sentiments**:
+Neutral reviews are brief, with terms like "okay" and "size."
+
+![image](https://github.com/user-attachments/assets/3427f5c9-fd0d-44dc-aae1-1b043e39cf27)
+
+#### 😠 **Negative Sentiments**:
+Complaints focus on issues like "working," "poor," and "bad."
+
+![image](https://github.com/user-attachments/assets/226e1979-ef47-4c40-b089-44cd1b94e044)
 
 ---
 
@@ -55,23 +64,23 @@ This project analyzes customer reviews from Amazon to uncover trends in sentimen
 
 ---
 
-## **Visualizations**
+## 📊 **Visualizations**
 
 ### **Scatter Plot: Discount Percentage vs Rating**
-- A weak negative correlation is observed, with higher discounts sometimes leading to slightly lower ratings.
+A weak negative correlation is observed, with higher discounts sometimes leading to slightly lower ratings.
 
-![image](https://github.com/user-attachments/assets/6f2e09cf-ce1b-4ad6-9171-f4e29af54677)
+![image](https://github.com/user-attachments/assets/69eb9964-337d-4c32-b397-1d85a0e78254)
 
 ---
 
 ### **Boxplot: Review Length by Sentiment**
-- Positive reviews show higher variability and length compared to negative reviews.
+Positive reviews show higher variability and length compared to negative reviews.
 
-![image](https://github.com/user-attachments/assets/59f601ab-79c4-43df-b5c1-7729c20f688c)
+![image](https://github.com/user-attachments/assets/49111c60-823b-4f01-9bb2-4dc6aacd8828)
 
 ---
 
-## **How to Use**
+## 🚀 **How to Use**
 
 ### **1. Run the Notebook**
 1. Clone the repository:
